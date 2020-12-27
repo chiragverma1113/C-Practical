@@ -1,3 +1,4 @@
+//Program to check whether given number is Armstrong Or Not
 #include<conio.h>
 #include<stdio.h>
 #include<math.h>
