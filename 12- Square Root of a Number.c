@@ -6,7 +6,6 @@ void main()
   int num;
   float cal;
   clrscr();
-  printf("Adding two Numbers\n");
   printf("Enter any number : ");
   scanf("%d",&num);
   cal=sqrt(num);
