@@ -3,7 +3,7 @@
 #include<conio.h>
 int main()
 {
-	int sub1,sub2,sub3, avg;    
+        int sub1,sub2,sub3, avg;    
 	clrscr();
 	printf("Enter Marks of Subject 1 : ");
 	scanf("%d",&sub1);
@@ -23,7 +23,7 @@ int main()
 	        printf("\nGrade : Third Division");		
 	else if(avg>=0 && avg<=39)
 	        printf("\nGrade : Fail");	
-    else;
+        else;
     printf("\n");
-	getch();
+    getch();
 }
