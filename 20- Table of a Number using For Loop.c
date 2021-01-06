@@ -1,4 +1,4 @@
-//Program to find factorial of a number
+//Program to find table of a number using loop
 #include<conio.h>
 #include<stdio.h>
 void main()
